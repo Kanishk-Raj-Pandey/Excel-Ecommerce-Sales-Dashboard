@@ -39,4 +39,5 @@ Project Outcome
 This project demonstrates how Microsoft Excel can be used to organize e-commerce sales data into a visual dashboard, making business performance and sales trends easier to explore.
 
 Author
-Kanishk
+
+Kanishk Raj
